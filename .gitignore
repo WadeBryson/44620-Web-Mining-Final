@@ -1,0 +1,42 @@
+# Mac files
+.DS_Store
+
+# VS Code files
+.vscode/
+
+# Python Virtual environment folders
+.venv/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+
+# Translations
+*.mo
+*.pot
+
+# Environments
+.env
+
+# mypy
+.mypy_cache/
+
+# pytype static type analyzer
+.pytype/
