@@ -33,4 +33,8 @@ def frequent_verbs(filename):
     for token, count in verb_top_5:
         print(f'{token} - {count}')
 
+orig_list = [9,8,7,2]
+new_list = [2*i for i in orig_list]
+print(sum(new_list))
+
 
