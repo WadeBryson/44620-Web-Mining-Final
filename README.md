@@ -1,14 +1,14 @@
 # 44620-Web-Mining-Final
-Author: Wade Bryson  
-Class: 44-620 Web Mining and Applied NLP
-Module 7 Project 7: Custom Project
+#### Author: Wade Bryson  
+#### Class: 44-620 Web Mining and Applied NLP
+#### Module 7 Project 7: Custom Project
 
 ## Project Description
 Title: Taylor Swift Sentiment Analysis
 Description - I try to predict the Polarity Score of Taylor Swift songs based on their top 5 most used verbs.
 
 ## Process
-* Part 1: Import Song from API (Lyrics Genius) and save as JSON [Lyrics Genius Link](https://docs.genius.com/)
+* Part 1: Import Song from API (Lyrics Genius) and save as JSON [(Lyrics Genius Link)](https://docs.genius.com/)
 * Part 2: Find the 5 most used verbs in the song
 * Part 3: Attempt to guess the Polarity Score based on the 5 most used verbs
 * Part 4: Find the Polarity Score and compare to my guess
